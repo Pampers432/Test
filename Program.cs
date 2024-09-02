@@ -5,8 +5,7 @@
         static void Main(string[] args)
         {
             Car car = new Car();
-            car.SetValues("Opel", "300", "1000km");
-
+            car.SetValues("Opel", "Opel Grandland GSe 1.6i Turbo", "300", "1000km");
         }
     }
 }
